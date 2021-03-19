@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python,PHP,HTML,CSS ETC.
 - 🔭 I’m currently working on Making CC Checker Bot.
 - 📫 How to reach me @Luciferrr_xD on Telegram.
--⚡ Fun fact I am Litrally a Noob.
+- ⚡ Fun fact I am Litrally a Noob.
